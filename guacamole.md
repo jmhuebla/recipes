@@ -6,3 +6,4 @@
 
 ## Instructions
 * Mix all with a fork
+* Smash ingredients
