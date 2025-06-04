@@ -1,5 +1,5 @@
 # Encebollado
-##Ingredientes 
+## Ingredientes 
 * Pescado
 * Yuca 
 * Cebolla
